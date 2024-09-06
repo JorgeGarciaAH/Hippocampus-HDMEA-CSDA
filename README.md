@@ -5,7 +5,7 @@ For the preliminary version of this code, please refer to https://github.com/kza
 
 ![CentersOfMassTrajectories](https://github.com/LBitn/Hippocampus-HDMEA-CSDA/blob/main/CentersOfMassTrajectories.gif)
 
-- This methodology provides a means to define the center of mass of sinks and sources over time with high spatiotemporal resolution in brain slices, which can help infer transsmision information.
+- This methodology provides a means to define the center of mass of sinks and sources over time with high spatiotemporal resolution in brain slices, which can help infer transmission information.
 Using CSD analysis, a disjoint component analysis allows for the dissection of restricted synaptic activation, which is obscured by high-voltage electrographic elements. Additionally, subthreshold activity, not overtly detected in voltage recordings, can be better defined and quantitatively traced.
 
 ---
